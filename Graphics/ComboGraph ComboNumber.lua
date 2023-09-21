@@ -1,0 +1,1 @@
+return LoadFont("Common Normal")..{ InitCommand=cmd(zoom,0.5;); };
